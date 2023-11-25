@@ -1,0 +1,2 @@
+# Majneg
+majnek's site
